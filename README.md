@@ -1,10 +1,12 @@
 # Artist Daily Practice
 
-**A flexible daily logging system for artists, freelancers, and independent creatives.**
+**Artist Daily Practice is a flexible daily logging system for artists, freelancers, and independent creatives who want to understand how their work and working life develop over time.**
 
-Use it to record what you did, understand how creative projects and professional work are progressing, plan the next concrete step, and recognize the rest, observation, and outside experience that sustain an independent creative life.
+It offers different templates for different kinds of days: making and developing creative work, managing clients and professional responsibilities, spending time outside gathering experience, and staying home to rest or recover. A Quick Daily Log is also included for mixed days or moments when a full reflection would feel like too much.
 
-Creative work is not only finished output. It also includes experiments, failed attempts, rehearsals, research, client communication, applications, administration, changing judgments, preparation, maintenance, and recovery. Artist Daily Practice helps preserve that process without turning an artistic life into a productivity dashboard.
+Use the system to record what you actually did, notice how a project or professional situation changed, preserve useful observations and decisions, and identify a next step when one is genuinely needed. The templates can be completed by hand in a few minutes, or used to organize a freely spoken account afterward.
+
+Creative practice is not limited to finished work or visible output. It also includes experiments, failed attempts, rehearsals, research, applications, client communication, administration, preparation, maintenance, uncertainty, changing judgments, and rest. Artist Daily Practice makes these less visible parts of an independent creative life easier to remember and review—without treating every day as a productivity problem or requiring every experience to become useful.
 
 ## How it works
 
