@@ -1,4 +1,4 @@
-# Creative Practice Daily Review — Fictional Example
+# Creative Day Log — Fictional Example
 
 > This is a fictional example. It does not describe a real person or project.
 
@@ -48,4 +48,3 @@ Energy was low at the beginning. Turning off the overhead lights and limiting th
 
 - Test two fade-in durations without changing the image or volume.
 - Leave brightness and contrast untouched for now.
-
