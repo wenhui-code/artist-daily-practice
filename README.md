@@ -30,12 +30,37 @@ Choose today's mode
 
 ## Templates
 
-- [`templates/five-minute-log.md`](templates/five-minute-log.md) — a short log for any day
-- [`templates/full-practice-review.md`](templates/full-practice-review.md) — a detailed Creative Practice Day review
-- [`templates/freelance-business-day.md`](templates/freelance-business-day.md) — professional progress and long-term practice development
-- [`templates/outside-input-day.md`](templates/outside-input-day.md) — external experience, observation, meetings, and cultural input
-- [`templates/rest-recovery-day.md`](templates/rest-recovery-day.md) — rest and recovery without requiring productivity
-- [`examples/filled-example.md`](examples/filled-example.md) — a fictional Creative Practice Day example
+Choose the template according to what you actually spent the day doing:
+
+| If today was mainly about... | Use this template | The main question it answers |
+| --- | --- | --- |
+| Making, rehearsing, writing, editing, researching, or testing the artwork itself | **[Creative Practice Day](templates/full-practice-review.md)** | What happened in the work, what did I learn, and what should I try next? |
+| Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Freelance / Business Day](templates/freelance-business-day.md)** | What moved my professional practice or independent career forward? |
+| Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside / Input Day](templates/outside-input-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
+| Taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest / Recovery Day](templates/rest-recovery-day.md)** | What do I need when work is not the priority today? |
+| A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Five-Minute Daily Log](templates/five-minute-log.md)** | What happened, what changed, and what—if anything—comes next? |
+
+### The difference between similar Day Modes
+
+**Creative Practice Day vs. Freelance / Business Day**
+
+- Choose **Creative Practice Day** when the main object of attention was the artwork or creative process.
+- Choose **Freelance / Business Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
+- If both happened, choose the mode that occupied most of your attention, or use the Five-Minute Daily Log and mark the day as mixed.
+
+**Outside / Input Day vs. Rest / Recovery Day**
+
+- Choose **Outside / Input Day** when you were actively encountering places, people, events, culture, or field material—even if no artwork was produced.
+- Choose **Rest / Recovery Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
+- A walk can belong to either mode: use Outside / Input if the experience itself was central; use Rest / Recovery if the walk mainly supported rest.
+
+**Five-Minute Daily Log vs. a full Day Mode**
+
+- Choose a full Day Mode when you want to understand the day in depth.
+- Choose the Five-Minute Daily Log when consistency matters more than detail.
+- You never need to complete a full template simply because it exists.
+
+See [`examples/filled-example.md`](examples/filled-example.md) for a fictional Creative Practice Day example.
 
 All files are plain Markdown. Copy them into Obsidian, another notes app, or any folder where you keep your daily logs. No plugin is required.
 
@@ -93,4 +118,3 @@ Daily logs may contain client details, financial information, health information
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International](LICENSE). You may share and adapt it for any purpose, provided appropriate credit is given.
-
