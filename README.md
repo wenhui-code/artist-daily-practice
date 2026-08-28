@@ -70,19 +70,39 @@ All files are plain Markdown. Copy them into Obsidian, another notes app, or any
 
 ## Two ways to use the templates
 
-**Write by hand**
+### 1. Fill them in by hand
 
+- Choose the template that best matches the day.
 - Select the checkboxes that apply.
-- Add one short sentence only where it is useful.
-- Skip any field or section that does not matter that day.
-- Most logs are designed to take about 3 to 7 minutes.
+- Add a short note where it is useful.
+- Skip any field or section that does not fit.
+- Most logs take about 3 to 7 minutes.
 
-**Use voice and organize afterward**
+### 2. Use a voice recording with AI
 
-- Speak naturally about what happened rather than answering each prompt in order.
-- Use the template headings or an AI assistant to turn the recording into a structured log.
-- Remove empty sections and do not invent information that was not spoken.
-- Keep direct observation separate from interpretation and avoid repeating the same detail.
+- Record an audio note in your own words. Speak naturally without following the template or answering each prompt.
+- Give the audio recording or its transcript to an AI assistant.
+- Ask the AI to organize what you said into the template that best matches the day.
+- The AI should use only information from your recording, remove empty sections, and avoid repeating the same detail.
+- Review the completed log before saving it, especially if it includes names, client information, finances, health, or private conversations.
+
+The basic voice workflow is:
+
+```text
+Record an audio note
+→ Share the audio or transcript with an AI assistant
+→ Organize it into a Day Type
+→ Review the completed log
+→ Save it in your daily notes
+```
+
+You can give the AI this prompt:
+
+```text
+Organize this audio recording or transcript using the most suitable Artist Daily Practice template.
+
+Use only information I provided. Do not invent details or force every section to be completed. Remove empty sections, avoid repetition, and keep direct observations separate from interpretation.
+```
 
 Checkbox instructions are explicit: **choose one** means one answer; **select all that apply** allows multiple answers.
 
