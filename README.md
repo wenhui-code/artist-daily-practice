@@ -37,7 +37,7 @@ Choose the template according to what you actually spent the day doing:
 | Making, rehearsing, writing, editing, researching, or testing the artwork itself | **[Creative Practice Day](templates/full-practice-review.md)** | What happened in the work, what did I learn, and what should I try next? |
 | Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Freelance / Business Day](templates/freelance-business-day.md)** | What moved my professional practice or independent career forward? |
 | Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside / Input Day](templates/outside-input-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
-| Taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest / Recovery Day](templates/rest-recovery-day.md)** | What do I need when work is not the priority today? |
+| Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest / Recovery Day](templates/rest-recovery-day.md)** | What do I need when work is not the priority today? |
 | A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Five-Minute Daily Log](templates/five-minute-log.md)** | What happened, what changed, and what—if anything—comes next? |
 
 ### The difference between similar Day Modes
@@ -53,6 +53,8 @@ Choose the template according to what you actually spent the day doing:
 - Choose **Outside / Input Day** when you were actively encountering places, people, events, culture, or field material—even if no artwork was produced.
 - Choose **Rest / Recovery Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
 - A walk can belong to either mode: use Outside / Input if the experience itself was central; use Rest / Recovery if the walk mainly supported rest.
+- A day spent entirely at home can be a Rest / Recovery Day when you did not work or go out and the day centered on rest, ordinary home life, or low-demand activity.
+- Location alone does not determine the mode: if you made artwork or handled client work at home, choose Creative Practice Day or Freelance / Business Day instead.
 
 **Five-Minute Daily Log vs. a full Day Mode**
 
