@@ -1,11 +1,11 @@
 # Quick Daily Log
 
-> Fill in only what is useful, or speak freely and organize the account afterward. You do not need to answer every prompt.
+> Write a few lines or talk through the day and sort your notes later. Skip any prompt that does not fit.
 
 - **Date:**
-- **Day type — choose one:** Creative / Business / Outside / Rest / Mixed
-- **Project or area of life, if relevant:**
-- **Main focus, if any:**
+- **Day type (choose one):** Creative / Business / Outside / Rest / Mixed
+- **Project or area of life:**
+- **Main focus:**
 
 ## What I Did
 
@@ -33,4 +33,3 @@ Organize the spoken account without preserving a raw transcript.
 Do not invent answers the person did not provide.
 Remove empty sections and avoid repeating information.
 -->
-
