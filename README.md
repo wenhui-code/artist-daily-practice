@@ -66,6 +66,24 @@ See [`examples/filled-example.md`](examples/filled-example.md) for a fictional C
 
 All files are plain Markdown. Copy them into Obsidian, another notes app, or any folder where you keep your daily logs. No plugin is required.
 
+## Two ways to use the templates
+
+**Write by hand**
+
+- Select the checkboxes that apply.
+- Add one short sentence only where it is useful.
+- Skip any field or section that does not matter that day.
+- Most logs are designed to take about 3–7 minutes.
+
+**Use voice and organize afterward**
+
+- Speak naturally about what happened; you do not need to answer each prompt in order.
+- Use the template headings—or an AI assistant—to organize the account afterward.
+- Remove empty sections and do not invent information that was not spoken.
+- Keep direct observation separate from interpretation and avoid repeating the same detail.
+
+Checkbox instructions are explicit: **choose one** means one answer; **select all that apply** allows multiple answers.
+
 ## Who it is for
 
 The system is medium-agnostic and can be adapted by visual artists, sculptors, ceramic artists, photographers, filmmakers, performers, dancers, musicians, sound artists, writers, designers, illustrators, and interdisciplinary practitioners.
