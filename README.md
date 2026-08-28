@@ -14,7 +14,7 @@ Not every day is the same kind of workday. Choose the Day Type that best matches
 
 | Day Type | Use it for |
 | --- | --- |
-| **Creative Day** | Making, experimenting, rehearsing, researching, editing, and reflecting on the work itself |
+| **Creative Day** | Making, reading, writing, experimenting, analysing, and developing creative or research-based work |
 | **Business Day** | Clients, proposals, applications, finances, communication, visibility, and planning an independent career |
 | **Outside Day** | Exhibitions, field research, travel, meetings, observation, cultural input, and time in the world |
 | **Rest Day** | Staying at home without going out, resting, recovering, or living at a lower level of demand |
@@ -36,7 +36,7 @@ Choose the template according to what you actually spent the day doing:
 
 | If today was mainly about... | Use this template | The main question it answers |
 | --- | --- | --- |
-| Making, rehearsing, writing, editing, researching, or testing the artwork itself | **[Creative Day](templates/creative-day.md)** | What happened in the work, what did I learn, and what should I try next? |
+| Making, rehearsing, reading, writing, analysing, researching, or testing ideas and creative work | **[Creative Day](templates/creative-day.md)** | What happened in the work, what did I learn, and what should I try next? |
 | Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Business Day](templates/business-day.md)** | What moved my professional practice or independent career forward? |
 | Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside Day](templates/outside-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
 | Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest Day](templates/rest-day.md)** | What do I need when work is not the priority today? |
@@ -46,7 +46,7 @@ Choose the template according to what you actually spent the day doing:
 
 **Creative Day vs. Business Day**
 
-- Choose **Creative Day** when the main object of attention was the artwork or creative process.
+- Choose **Creative Day** when the main object of attention was the artwork, research question, source material, or creative process.
 - Choose **Business Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
 - If both happened, choose the type that occupied most of your attention, or use the Quick Daily Log and mark the day as mixed.
 
@@ -108,7 +108,9 @@ Checkbox instructions are explicit: **choose one** means one answer; **select al
 
 ## Who it is for
 
-The system is medium-agnostic and can be adapted by visual artists, sculptors, ceramic artists, photographers, filmmakers, performers, dancers, musicians, sound artists, writers, designers, illustrators, and interdisciplinary practitioners.
+The system is medium-agnostic and can be adapted by visual artists, sculptors, ceramic artists, photographers, filmmakers, performers, dancers, musicians, sound artists, writers, designers, illustrators, artist-researchers, and interdisciplinary practitioners.
+
+Creative Day supports both practice-based and research-based work. It can hold making and experimentation alongside reading, writing, analysis, source material, data, and evidence. It is intended as a daily reflection tool rather than a formal laboratory or compliance record.
 
 It is also designed for people who manage the professional side of their own practice: freelance work, clients, applications, exhibitions, income, communication, planning, and the gradual construction of a sustainable career.
 
