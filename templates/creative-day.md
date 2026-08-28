@@ -1,13 +1,13 @@
 # Creative Day Log
 
-> For days mainly spent making, rehearsing, writing, researching, editing, or testing creative work. Use the prompts that help. If you prefer voice, talk through the day first and sort your notes later.
+> For practice-based and research-based days spent making, reading, writing, rehearsing, analysing, editing, or testing ideas. Use the prompts that help. If you prefer voice, talk through the day first and sort your notes later.
 
 ## 1. Context
 
 - **Date:**
 - **Project / practice:**
 - **Medium / discipline:**
-- **Time spent, if useful:**
+- **Time spent:**
 - **Main focus:**
 
 **Practice mode (select all that apply)**
@@ -15,7 +15,9 @@
 - [ ] Making / producing
 - [ ] Experimenting / testing
 - [ ] Rehearsing / performing
-- [ ] Researching
+- [ ] Reading / researching
+- [ ] Writing
+- [ ] Analysing
 - [ ] Editing / refining
 - [ ] Planning / preparing
 - [ ] Documenting / sharing
@@ -50,10 +52,11 @@
 - [ ] Paused
 - [ ] Unclear
 
-## 4. Experiment or Observation, if Relevant
+## 4. Experiment, Research or Observation
 
-- **What did I test, change, or notice?**
+- **What did I make, test, read, analyse, or notice?**
 - **What happened?**
+- **Source, material, data, or evidence worth keeping:**
 
 **Result (choose one if there was a test)**
 
@@ -77,6 +80,8 @@
 - [ ] Experiment completed
 - [ ] Technical learning
 - [ ] Conceptual clarification
+- [ ] Research question developed
+- [ ] Source, data, or evidence reviewed
 - [ ] Decision made
 - [ ] Useful failure
 - [ ] Work documented or shared
