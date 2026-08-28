@@ -15,7 +15,7 @@ Not every day is the same kind of workday. Choose the Day Type that best matches
 | Day Type | Use it for |
 | --- | --- |
 | **Creative Day** | Making, reading, writing, experimenting, analysing, and developing creative or research-based work |
-| **Business Day** | Clients, proposals, applications, finances, communication, visibility, and planning an independent career |
+| **Professional Day** | Clients, proposals, applications, finances, communication, visibility, and planning an independent career |
 | **Outside Day** | Exhibitions, field research, travel, meetings, observation, cultural input, and time in the world |
 | **Rest Day** | Staying at home without going out, resting, recovering, or living at a lower level of demand |
 | **Quick Daily Log** | A low-friction record for any kind of day |
@@ -37,17 +37,17 @@ Choose the template according to what you actually spent the day doing:
 | If today was mainly about... | Use this template | The main question it answers |
 | --- | --- | --- |
 | Making, rehearsing, reading, writing, analysing, researching, or testing ideas and creative work | **[Creative Day](templates/creative-day.md)** | What happened in the work, what did I learn, and what should I try next? |
-| Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Business Day](templates/business-day.md)** | What moved my professional practice or independent career forward? |
+| Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Professional Day](templates/professional-day.md)** | What moved my professional practice or independent career forward? |
 | Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside Day](templates/outside-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
 | Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest Day](templates/rest-day.md)** | What do I need when work is not the priority today? |
 | A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Quick Daily Log](templates/quick-daily-log.md)** | What happened, what changed, and what comes next? |
 
 ### The difference between similar Day Types
 
-**Creative Day vs. Business Day**
+**Creative Day vs. Professional Day**
 
 - Choose **Creative Day** when the main object of attention was the artwork, research question, source material, or creative process.
-- Choose **Business Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
+- Choose **Professional Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
 - If both happened, choose the type that occupied most of your attention, or use the Quick Daily Log and mark the day as mixed.
 
 **Outside Day vs. Rest Day**
@@ -56,7 +56,7 @@ Choose the template according to what you actually spent the day doing:
 - Choose **Rest Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
 - A walk can belong to either type: use Outside Day if the experience itself was central; use Rest Day if the walk mainly supported rest.
 - A day spent entirely at home can be a Rest Day when you did not work or go out and the day centered on rest, ordinary home life, or low-demand activity.
-- Location alone does not determine the type: if you made artwork or handled client work at home, choose Creative Day or Business Day instead.
+- Location alone does not determine the type: if you made artwork or handled client work at home, choose Creative Day or Professional Day instead.
 
 **Quick Daily Log vs. a full Day Type**
 
