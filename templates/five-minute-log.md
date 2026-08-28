@@ -1,6 +1,7 @@
 # Five-Minute Creative Practice Log
 
 - **Date:**
+- **Day mode:** Creative Practice / Freelance & Business / Outside & Input / Rest & Recovery / Mixed
 - **Project / practice:**
 - **Main focus:**
 
@@ -31,4 +32,3 @@
 ## Something Worth Remembering
 
 -
-
