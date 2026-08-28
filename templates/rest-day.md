@@ -1,70 +1,41 @@
 # Rest Day Log
 
-> For days spent resting, recovering, staying at home without going out, or living at a lower level of demand. Rest does not need to justify itself through future productivity. Use this template only if reflection feels supportive; leaving the day undocumented is also valid.
-
-## 1. Context
+> Filling this in is optional. Rest does not need to be explained, improved, or justified through future productivity. You may fill in a few fields, speak freely, or leave the day undocumented.
 
 - **Date:**
-- **Location / at home:**
-- **Reason for rest, if known:**
-- **Starting condition:**
-- **Available capacity:**
 
-**Kind of day**
+**Kind of day — select all that apply**
 
-- [ ] Planned rest
 - [ ] Stayed at home / did not go out
-- [ ] Quiet home day / ordinary domestic life
-- [ ] Low-capacity day
+- [ ] Planned rest
+- [ ] Quiet domestic day
+- [ ] Low energy
 - [ ] Physical recovery
 - [ ] Emotional recovery
-- [ ] Recovery after intense work or social activity
-- [ ] Unstructured time
 - [ ] Sick day
-- [ ] Mixed
+- [ ] Unstructured day
+- [ ] Other:
 
-## 2. What I Stopped or Set Down
+## Today
 
-- What did I choose not to do?
-- What pressure was still present?
-- Was anything safely postponed, declined, or simplified?
+- **What did I do, if I want to remember it?**
+- **Energy / body, if relevant:**
+- **What felt supportive, if anything?**
 
-## 3. Life at Home
+## Tomorrow
 
-- What did I actually do at home?
-- Ordinary activities, care, food, cleaning, reading, entertainment, or time with others:
-- Did the home environment feel restful, supportive, crowded, or demanding?
+- [ ] Return to normal activity
+- [ ] Keep the day light
+- [ ] Continue resting
+- [ ] Decide tomorrow
+- [ ] No plan needed
 
-## 4. Body & Nervous System
+- **Anything I need to remember:**
 
-- Energy:
-- Physical sensations:
-- Emotional state, if relevant:
-- Need for quiet, movement, sleep, food, company, or solitude:
+<!--
+For voice-based use:
+Keep the account simple and do not turn rest into a performance review.
+Do not infer psychological meaning, recovery, or readiness to work.
+Remove empty fields and sections and avoid repeating information.
+-->
 
-## 5. What Supported Me
-
-- What felt restorative or regulating?
-- What did not help?
-- What made rest easier or harder?
-- Did I allow rest without monitoring its usefulness?
-
-## 6. Residue & Boundaries
-
-- Work thoughts still present:
-- Unfinished communication or concern:
-- Boundary needed:
-- Something that can remain unresolved:
-
-## 7. Returning—or Not Returning
-
-- Do I want or need to return to work tomorrow?
-- What level of activity may be realistic?
-- Is any gentle preparation helpful?
-- What can wait longer?
-
-## 8. Closing Note
-
-- Something worth remembering:
-- What I need now:
-- No conclusion is required.
