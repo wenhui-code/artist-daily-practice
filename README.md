@@ -8,20 +8,20 @@ Creative work is not only finished output. It also includes experiments, failed 
 
 ## How it works
 
-Not every day is the same kind of workday. Choose the Day Mode that best matches the day:
+Not every day is the same kind of workday. Choose the Day Type that best matches the day:
 
-| Day Mode | Use it for |
+| Day Type | Use it for |
 | --- | --- |
-| **Creative Practice Day** | Making, experimenting, rehearsing, researching, editing, and reflecting on the work itself |
-| **Freelance / Business Day** | Clients, proposals, applications, finances, communication, visibility, and planning an independent career |
-| **Outside / Input Day** | Exhibitions, field research, travel, meetings, observation, cultural input, and time in the world |
-| **Rest / Recovery Day** | Rest, physical and emotional recovery, reduced capacity, and preparing conditions for a sustainable return |
-| **Five-Minute Daily Log** | A low-friction record for any kind of day |
+| **Creative Day** | Making, experimenting, rehearsing, researching, editing, and reflecting on the work itself |
+| **Business Day** | Clients, proposals, applications, finances, communication, visibility, and planning an independent career |
+| **Outside Day** | Exhibitions, field research, travel, meetings, observation, cultural input, and time in the world |
+| **Rest Day** | Staying at home without going out, resting, recovering, or living at a lower level of demand |
+| **Quick Daily Log** | A low-friction record for any kind of day |
 
 The basic rhythm is simple:
 
 ```text
-Choose today's mode
+Choose today's type
 → Record what actually happened
 → Notice progress, difficulty, or change
 → Decide the next step—or choose to leave the work alone
@@ -34,35 +34,35 @@ Choose the template according to what you actually spent the day doing:
 
 | If today was mainly about... | Use this template | The main question it answers |
 | --- | --- | --- |
-| Making, rehearsing, writing, editing, researching, or testing the artwork itself | **[Creative Practice Day](templates/full-practice-review.md)** | What happened in the work, what did I learn, and what should I try next? |
-| Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Freelance / Business Day](templates/freelance-business-day.md)** | What moved my professional practice or independent career forward? |
-| Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside / Input Day](templates/outside-input-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
-| Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest / Recovery Day](templates/rest-recovery-day.md)** | What do I need when work is not the priority today? |
-| A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Five-Minute Daily Log](templates/five-minute-log.md)** | What happened, what changed, and what—if anything—comes next? |
+| Making, rehearsing, writing, editing, researching, or testing the artwork itself | **[Creative Day](templates/creative-day.md)** | What happened in the work, what did I learn, and what should I try next? |
+| Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Business Day](templates/business-day.md)** | What moved my professional practice or independent career forward? |
+| Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside Day](templates/outside-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
+| Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest Day](templates/rest-day.md)** | What do I need when work is not the priority today? |
+| A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Quick Daily Log](templates/quick-daily-log.md)** | What happened, what changed, and what—if anything—comes next? |
 
-### The difference between similar Day Modes
+### The difference between similar Day Types
 
-**Creative Practice Day vs. Freelance / Business Day**
+**Creative Day vs. Business Day**
 
-- Choose **Creative Practice Day** when the main object of attention was the artwork or creative process.
-- Choose **Freelance / Business Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
-- If both happened, choose the mode that occupied most of your attention, or use the Five-Minute Daily Log and mark the day as mixed.
+- Choose **Creative Day** when the main object of attention was the artwork or creative process.
+- Choose **Business Day** when the main object of attention was the career, client, income, opportunity, communication, or system around the work.
+- If both happened, choose the type that occupied most of your attention, or use the Quick Daily Log and mark the day as mixed.
 
-**Outside / Input Day vs. Rest / Recovery Day**
+**Outside Day vs. Rest Day**
 
-- Choose **Outside / Input Day** when you were actively encountering places, people, events, culture, or field material—even if no artwork was produced.
-- Choose **Rest / Recovery Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
-- A walk can belong to either mode: use Outside / Input if the experience itself was central; use Rest / Recovery if the walk mainly supported rest.
-- A day spent entirely at home can be a Rest / Recovery Day when you did not work or go out and the day centered on rest, ordinary home life, or low-demand activity.
-- Location alone does not determine the mode: if you made artwork or handled client work at home, choose Creative Practice Day or Freelance / Business Day instead.
+- Choose **Outside Day** when you were actively encountering places, people, events, culture, or field material—even if no artwork was produced.
+- Choose **Rest Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
+- A walk can belong to either type: use Outside Day if the experience itself was central; use Rest Day if the walk mainly supported rest.
+- A day spent entirely at home can be a Rest Day when you did not work or go out and the day centered on rest, ordinary home life, or low-demand activity.
+- Location alone does not determine the type: if you made artwork or handled client work at home, choose Creative Day or Business Day instead.
 
-**Five-Minute Daily Log vs. a full Day Mode**
+**Quick Daily Log vs. a full Day Type**
 
-- Choose a full Day Mode when you want to understand the day in depth.
-- Choose the Five-Minute Daily Log when consistency matters more than detail.
+- Choose a full Day Type when you want to understand the day in depth.
+- Choose the Quick Daily Log when consistency matters more than detail.
 - You never need to complete a full template simply because it exists.
 
-See [`examples/filled-example.md`](examples/filled-example.md) for a fictional Creative Practice Day example.
+See [`examples/filled-example.md`](examples/filled-example.md) for a fictional Creative Day example.
 
 All files are plain Markdown. Copy them into Obsidian, another notes app, or any folder where you keep your daily logs. No plugin is required.
 
@@ -90,7 +90,7 @@ Progress is not limited to producing new work. A daily log may preserve:
 
 ## Suggested workflow
 
-1. Choose a Day Mode according to what the day actually became—not what it was supposed to be.
+1. Choose a Day Type according to what the day actually became—not what it was supposed to be.
 2. Complete only the useful sections. Delete or ignore empty prompts.
 3. Write concrete actions and direct observations before interpretation.
 4. End with one next action when appropriate. A deliberate pause can also be the right outcome.
