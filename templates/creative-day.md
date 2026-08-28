@@ -1,168 +1,76 @@
 # Creative Day Log
 
-> For days mainly spent making, rehearsing, writing, researching, editing, or testing creative work. Complete only the sections that are useful. Empty sections may be removed.
+> For days mainly spent making, rehearsing, writing, researching, editing, or testing creative work. Fill in only the useful fields, or speak freely and organize the account afterward.
 
 ## 1. Context
 
 - **Date:**
 - **Project / practice:**
-- **Medium / discipline:**
-- **Location:**
-- **Time spent:**
+- **Medium / discipline, if relevant:**
+- **Time spent, if useful:**
 - **Main focus:**
 
-**Practice mode**
+**Practice mode — select all that apply**
 
 - [ ] Making / producing
-- [ ] Experimenting
+- [ ] Experimenting / testing
 - [ ] Rehearsing / performing
-- [ ] Researching / gathering input
+- [ ] Researching
 - [ ] Editing / refining
-- [ ] Documenting
-- [ ] Planning / developing
-- [ ] Admin / communication
-- [ ] Preparing tools, materials, or conditions
-- [ ] Resting / recovering
+- [ ] Planning / preparing
+- [ ] Documenting / sharing
 - [ ] Other:
 
-## 2. What Happened Today
-
-**What did I actually do?**
+## 2. What I Did
 
 -
 -
 -
 
-**Level of engagement**
+**Level of engagement — choose one**
 
-- [ ] Deep engagement
-- [ ] Steady engagement
-- [ ] Light but meaningful contact
+- [ ] Deep
+- [ ] Steady
+- [ ] Light but meaningful
 - [ ] Preparation only
-- [ ] Rest or recovery
-- [ ] No meaningful contact with the work
+- [ ] Minimal contact
 
 ## 3. State of the Work
 
-- **Work / project:**
-- **Starting state:**
-- **Actions taken:**
-- **Ending state:**
-- **Medium, materials, tools, or technologies:**
+- **Starting point:**
+- **Where it stands now:**
 
-**Current stage**
+**Current stage — choose one**
 
 - [ ] Beginning
 - [ ] Exploring
 - [ ] Developing
 - [ ] Revising
 - [ ] Completing
-- [ ] Documenting
-- [ ] Presenting / sharing
 - [ ] Paused
 - [ ] Unclear
 
-## 4. Experiment & Observation
+## 4. Experiment or Observation, if Relevant
 
-- **What did I test, change, or explore?**
-- **Initial expectation:**
-- **Direct observation:**
-- **Unexpected result:**
-- **Interpretation, if any:**
-- **Does this need another test?**
+- **What did I test, change, or notice?**
+- **What happened?**
 
-**Result**
+**Result — choose one if there was a test**
 
-- [ ] Supported the initial expectation
-- [ ] Contradicted the initial expectation
-- [ ] Produced mixed results
+- [ ] Supported my expectation
+- [ ] Contradicted my expectation
+- [ ] Mixed / unclear
 - [ ] Revealed an unexpected possibility
-- [ ] Needs further testing
-- [ ] No formal experiment today
+- [ ] Needs another test
 
-## 5. Artistic Questions
+## 5. Decisions & Learning
 
-- **What held my attention?**
-- **What felt convincing?**
-- **What felt unresolved?**
-- **What question emerged?**
-- **What relationship am I exploring?**
+- **What felt convincing, important, or unresolved?**
+- **Did my judgment change? If so, how?**
+- **Main difficulty or discovery:**
+- **What did I learn, if anything?**
 
-**Areas of attention**
-
-- [ ] Form / structure
-- [ ] Material / medium
-- [ ] Color / image
-- [ ] Sound / rhythm
-- [ ] Movement / gesture
-- [ ] Language / narrative
-- [ ] Space / context
-- [ ] Time / duration
-- [ ] Audience / participation
-- [ ] Concept / meaning
-- [ ] Process / method
-- [ ] Other:
-
-## 6. Decisions & Changes in Judgment
-
-- **Situation:**
-- **Initial assumption or judgment:**
-- **What I noticed:**
-- **What changed my thinking:**
-- **Decision made:**
-- **Evidence from the work:**
-- **What remains unresolved:**
-
-## 7. Difficulties & Learning
-
-- **Main difficulty:**
-- **What may have caused it:**
-- **What I tried:**
-- **Result:**
-- **What I learned:**
-- **What may be useful next time:**
-
-**Type of difficulty**
-
-- [ ] Technical
-- [ ] Material
-- [ ] Conceptual
-- [ ] Structural
-- [ ] Logistical
-- [ ] Financial
-- [ ] Time-related
-- [ ] Attention / energy
-- [ ] Communication
-- [ ] No clear difficulty
-
-## 8. Body, Attention & Working Conditions
-
-- **Energy:**
-- **Focus / attention:**
-- **Physical state:**
-- **Emotional state, if relevant:**
-- **Working environment:**
-- **What supported the work:**
-- **What made the work harder:**
-
-## 9. Documentation, Communication & Professional Work
-
-- [ ] Process photos / video / audio
-- [ ] Work documentation
-- [ ] Notes / measurements / files
-- [ ] Portfolio / archive update
-- [ ] Public sharing
-- [ ] Application / proposal
-- [ ] Client or collaborator communication
-- [ ] Exhibition / event coordination
-- [ ] Financial / administrative work
-- [ ] No documentation or communication today
-
-- **What was documented or communicated?**
-- **Did external input affect the work or my judgment?**
-- **Is any follow-up needed?**
-
-## 10. Type of Progress
+**Type of progress — select all that apply**
 
 - [ ] New work produced
 - [ ] Existing work developed
@@ -171,32 +79,33 @@
 - [ ] Conceptual clarification
 - [ ] Decision made
 - [ ] Useful failure
-- [ ] Documentation or communication
+- [ ] Work documented or shared
 - [ ] Conditions prepared
-- [ ] Rest or recovery
 - [ ] No clear outcome yet
 
-## 11. Next Step
+## 6. Body & Working Conditions
+
+**Energy — choose one**
+
+- [ ] High
+- [ ] Steady
+- [ ] Low
+- [ ] Variable
+
+- **What supported or made the work harder, if relevant?**
+
+## 7. Next Step
 
 - **Next concrete action:**
-- **One variable or question to explore:**
-- **Preparation needed:**
-- **What should remain untouched for now?**
-- **When will I return to it?**
-
-## 12. Closing Note
-
-- **Something worth remembering:**
-- **A trace, image, phrase, sound, or gesture from today:**
-- **Additional notes:**
+- **One question or variable to carry forward, if any:**
+- **Something worth remembering, if any:**
 
 <!--
-Editing principles:
-
-- Record what actually happened before interpreting it.
-- Separate direct observation from interpretation.
-- Do not treat finished output as the only form of progress.
-- Do not force every day to produce insight or significance.
-- Preserve failures, uncertainties, pauses, and changes in judgment when they matter.
-- Complete only the relevant sections; remove empty fields when desired.
+For voice-based use:
+Organize the spoken account without preserving a raw transcript.
+Record what happened before interpreting it.
+Separate direct observation from interpretation.
+Do not invent answers, force insight, or repeat information across sections.
+Remove empty fields and sections.
 -->
+
