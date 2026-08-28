@@ -1,14 +1,14 @@
 # Outside Day Log
 
-> For exhibitions, field research, travel, meetings, errands, social time, observation, or simply being out in the world. Experience does not need to become creative material. Fill in only what matters, or speak freely and organize the account afterward.
+> For exhibitions, field research, travel, meetings, errands, social time, observation, or simply being out in the world. An experience may inform the work or simply be worth remembering. Jot down what matters, or talk through the day and sort your notes later.
 
 ## 1. Context
 
 - **Date:**
 - **Places / route:**
-- **People / context, if relevant:**
+- **People / context:**
 
-**Outside activity — select all that apply**
+**Outside activity (select all that apply)**
 
 - [ ] Exhibition / performance / event
 - [ ] Field research
@@ -23,7 +23,7 @@
 ## 2. What Happened
 
 - **Where did I go and what did I do?**
-- **Who did I meet or speak with, if relevant?**
+- **Who did I meet or speak with?**
 
 ## 3. What I Noticed
 
@@ -39,7 +39,7 @@
 - [ ] Nature / weather
 
 - **One detail worth recording:**
-- **What stayed with me, if anything?**
+- **What stayed with me?**
 
 ## 4. Connection to My Practice
 
@@ -47,11 +47,11 @@
 - [ ] Possibly relevant
 - [ ] No connection needed
 
-- **Note, if relevant:**
+- **Note:**
 
 ## 5. Energy & Boundaries
 
-**Energy after the day — choose one**
+**Energy after the day (choose one)**
 
 - [ ] Energized
 - [ ] Steady
@@ -59,7 +59,7 @@
 - [ ] Overstimulated
 - [ ] Mixed
 
-- **Useful exchange, difficulty, or boundary, if relevant:**
+- **Useful exchange, difficulty, or boundary:**
 
 ## 6. What to Carry Forward
 
@@ -73,4 +73,3 @@ Keep direct observation separate from interpretation.
 Do not force an experience to become creative material or invent significance.
 Remove empty fields and sections and avoid repeating information.
 -->
-
