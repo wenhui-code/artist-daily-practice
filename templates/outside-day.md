@@ -1,67 +1,76 @@
 # Outside Day Log
 
-> For days centered on exhibitions, field research, travel, meetings, cultural input, observation, or simply being out in the world. Experience may inform the practice, but it does not need to become creative material.
+> For exhibitions, field research, travel, meetings, errands, social time, observation, or simply being out in the world. Experience does not need to become creative material. Fill in only what matters, or speak freely and organize the account afterward.
 
 ## 1. Context
 
 - **Date:**
 - **Places / route:**
-- **People / context:**
-- **Main orientation:**
+- **People / context, if relevant:**
 
-**Outside activity**
+**Outside activity — select all that apply**
 
 - [ ] Exhibition / performance / event
 - [ ] Field research
 - [ ] Meeting / conversation
-- [ ] City observation / wandering
+- [ ] Walking / city observation
 - [ ] Travel
 - [ ] Errands / practical activity
 - [ ] Social time
 - [ ] Time in nature
-- [ ] Mixed outside day
+- [ ] Other:
 
 ## 2. What Happened
 
-- Where did I go?
-- What did I actually do?
-- Who did I meet or speak with?
-- What was the rhythm of the day?
+- **Where did I go and what did I do?**
+- **Who did I meet or speak with, if relevant?**
 
-## 3. Direct Observations
+## 3. What I Noticed
 
-- **Visual:**
-- **Sound:**
-- **Movement / gesture:**
-- **Material / surface:**
-- **Space / atmosphere:**
-- **Language / conversation:**
-- **Other sensory detail:**
+**Select anything that mattered**
 
-## 4. Input & Response
+- [ ] Image / color
+- [ ] Sound
+- [ ] Movement / gesture
+- [ ] Material / surface
+- [ ] Space / atmosphere
+- [ ] Conversation / idea
+- [ ] People / social environment
+- [ ] Nature / weather
 
-- What held my attention?
-- What surprised, unsettled, or energized me?
-- What stayed with me afterward?
-- Did anything change my perspective?
+- **One detail worth recording:**
+- **What stayed with me, if anything?**
 
-## 5. Possible Connection to the Practice
+## 4. Connection to My Practice
 
-- Is there a connection to current work?
-- Is it a direct observation, an interpretation, or only a feeling?
-- Does it need to be recorded as possible material?
-- Would it be better to leave the experience unconverted?
+- [ ] Directly relevant
+- [ ] Possibly relevant
+- [ ] No connection needed
 
-## 6. Social Energy & Boundaries
+- **Note, if relevant:**
 
-- Energy before / after:
-- Connection or useful exchange:
-- Overstimulation or difficulty:
-- Boundary or recovery need:
+## 5. Energy & Boundaries
 
-## 7. What to Carry Forward
+**Energy after the day — choose one**
 
-- Something worth remembering:
-- A person, place, work, or reference to revisit:
-- Follow-up, if genuinely needed:
-- No next step is also valid.
+- [ ] Energized
+- [ ] Steady
+- [ ] Tired
+- [ ] Overstimulated
+- [ ] Mixed
+
+- **Useful exchange, difficulty, or boundary, if relevant:**
+
+## 6. What to Carry Forward
+
+- **Something worth remembering:**
+- **Follow-up or next step, only if genuinely needed:**
+
+<!--
+For voice-based use:
+Organize the spoken account without preserving a raw transcript.
+Keep direct observation separate from interpretation.
+Do not force an experience to become creative material or invent significance.
+Remove empty fields and sections and avoid repeating information.
+-->
+
