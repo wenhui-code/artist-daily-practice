@@ -3,7 +3,7 @@
 > Write a few lines or talk through the day and sort your notes later. Skip any prompt that does not fit.
 
 - **Date:**
-- **Day type (choose one):** Creative / Business / Outside / Rest / Mixed
+- **Day type (choose one):** Creative / Professional / Outside / Rest / Mixed
 - **Project or area of life:**
 - **Main focus:**
 
