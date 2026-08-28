@@ -1,4 +1,4 @@
-# Creative Day Log — Fictional Example
+# Creative Day Log: Fictional Example
 
 > This is a fictional example. It does not describe a real person or project.
 
@@ -69,4 +69,3 @@
 - **Next concrete action:** Test two fade-in durations without changing the image or volume.
 - **One question or variable to carry forward:** Whether the loop should be audible immediately or emerge gradually.
 - **Something worth remembering:** The quietest sound created the strongest sense of scale.
-
