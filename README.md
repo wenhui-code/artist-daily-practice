@@ -4,9 +4,9 @@
 
 It offers different templates for different kinds of days: making and developing creative work, managing clients and professional responsibilities, spending time outside gathering experience, and staying home to rest or recover. A Quick Daily Log is also included for mixed days or moments when a full reflection would feel like too much.
 
-Use the system to record what you actually did, notice how a project or professional situation changed, preserve useful observations and decisions, and identify a next step when one is genuinely needed. The templates can be completed by hand in a few minutes, or used to organize a freely spoken account afterward.
+Use the system to record what you did, notice how a project or professional situation changed, and preserve useful observations and decisions. Add a next step when it helps. The templates can be completed by hand in a few minutes or used to organize a spoken account afterward.
 
-Creative practice is not limited to finished work or visible output. It also includes experiments, failed attempts, rehearsals, research, applications, client communication, administration, preparation, maintenance, uncertainty, changing judgments, and rest. Artist Daily Practice makes these less visible parts of an independent creative life easier to remember and review—without treating every day as a productivity problem or requiring every experience to become useful.
+Creative practice is not limited to finished work or visible output. It also includes experiments, failed attempts, rehearsals, research, applications, client communication, administration, preparation, maintenance, uncertainty, changing judgments, and rest. Artist Daily Practice makes these less visible parts of an independent creative life easier to remember and review. It leaves room for days that are not productive and experiences that have no practical use.
 
 ## How it works
 
@@ -26,7 +26,7 @@ The basic rhythm is simple:
 Choose today's type
 → Record what actually happened
 → Notice progress, difficulty, or change
-→ Decide the next step—or choose to leave the work alone
+→ Decide the next step, or leave the work alone
 → Review entries over time
 ```
 
@@ -40,7 +40,7 @@ Choose the template according to what you actually spent the day doing:
 | Clients, commissions, applications, proposals, invoices, promotion, administration, or career planning | **[Business Day](templates/business-day.md)** | What moved my professional practice or independent career forward? |
 | Visiting an exhibition, attending an event, meeting people, travelling, doing field research, walking, or gathering experience outside the workspace | **[Outside Day](templates/outside-day.md)** | What did I encounter, notice, or experience outside my usual work setting? |
 | Staying at home without going out, taking a day off, recovering, feeling unwell, having very low capacity, or deliberately stepping away from work | **[Rest Day](templates/rest-day.md)** | What do I need when work is not the priority today? |
-| A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Quick Daily Log](templates/quick-daily-log.md)** | What happened, what changed, and what—if anything—comes next? |
+| A mixed, ordinary, very busy, or low-energy day when a full review would be too much | **[Quick Daily Log](templates/quick-daily-log.md)** | What happened, what changed, and what comes next? |
 
 ### The difference between similar Day Types
 
@@ -52,7 +52,7 @@ Choose the template according to what you actually spent the day doing:
 
 **Outside Day vs. Rest Day**
 
-- Choose **Outside Day** when you were actively encountering places, people, events, culture, or field material—even if no artwork was produced.
+- Choose **Outside Day** when you were actively encountering places, people, events, culture, or field material, even if no artwork was produced.
 - Choose **Rest Day** when reduced demand, stopping, healing, or restoring capacity was the central need.
 - A walk can belong to either type: use Outside Day if the experience itself was central; use Rest Day if the walk mainly supported rest.
 - A day spent entirely at home can be a Rest Day when you did not work or go out and the day centered on rest, ordinary home life, or low-demand activity.
@@ -75,12 +75,12 @@ All files are plain Markdown. Copy them into Obsidian, another notes app, or any
 - Select the checkboxes that apply.
 - Add one short sentence only where it is useful.
 - Skip any field or section that does not matter that day.
-- Most logs are designed to take about 3–7 minutes.
+- Most logs are designed to take about 3 to 7 minutes.
 
 **Use voice and organize afterward**
 
-- Speak naturally about what happened; you do not need to answer each prompt in order.
-- Use the template headings—or an AI assistant—to organize the account afterward.
+- Speak naturally about what happened rather than answering each prompt in order.
+- Use the template headings or an AI assistant to turn the recording into a structured log.
 - Remove empty sections and do not invent information that was not spoken.
 - Keep direct observation separate from interpretation and avoid repeating the same detail.
 
@@ -110,7 +110,7 @@ Progress is not limited to producing new work. A daily log may preserve:
 
 ## Suggested workflow
 
-1. Choose a Day Type according to what the day actually became—not what it was supposed to be.
+1. Choose a Day Type based on what the day actually became rather than what it was supposed to be.
 2. Complete only the useful sections. Delete or ignore empty prompts.
 3. Write concrete actions and direct observations before interpretation.
 4. End with one next action when appropriate. A deliberate pause can also be the right outcome.
@@ -123,8 +123,8 @@ Progress is not limited to producing new work. A daily log may preserve:
 - Do not treat finished output as the only form of progress.
 - Preserve useful failures, uncertainty, pauses, and changes in judgment.
 - Do not force every day to produce insight or significance.
-- Outside experience may inform the practice, but it does not need to become creative material.
-- Rest does not need to justify itself through future productivity.
+- Outside experience may inform the practice. It can also stand on its own.
+- Rest has value without being measured by future productivity.
 - Complete only the sections that are useful; remove the rest.
 
 ## Customize it
@@ -135,7 +135,7 @@ The templates are foundations, not forms that must be completed.
 
 ## Privacy
 
-Daily logs may contain client details, financial information, health information, private conversations, or unpublished work. Keep completed logs private unless you have intentionally reviewed and anonymized them. The blank templates are designed to be shared; your entries do not need to be.
+Daily logs may contain client details, financial information, health information, private conversations, or unpublished work. Keep completed logs private unless you have intentionally reviewed and anonymized them. Share the blank templates, not your entries.
 
 ## License
 
