@@ -1,16 +1,14 @@
 # Business Day Log
 
-> For tracking the professional work that sustains an independent creative practice. Progress may be practical, financial, relational, or strategic—not only visible output.
+> For client work, applications, communication, finances, administration, and planning an independent career. Fill in only the useful fields, or speak freely and organize the account afterward.
 
 ## 1. Context
 
 - **Date:**
-- **Business / practice area:**
-- **Client, opportunity, or project:**
-- **Time spent:**
+- **Client, opportunity, or project, if relevant:**
 - **Main professional priority:**
 
-**Work mode**
+**Work mode — select all that apply**
 
 - [ ] Client work / delivery
 - [ ] Proposal / application
@@ -20,51 +18,35 @@
 - [ ] Exhibition / event coordination
 - [ ] Finance / pricing / invoicing
 - [ ] Administration / systems
-- [ ] Career planning / strategy
-- [ ] Learning / professional development
+- [ ] Career planning / learning
 - [ ] Other:
 
 ## 2. What Moved Forward
 
-- What did I actually do?
-- What was completed, submitted, sent, or decided?
-- What remains in progress?
-- What did not move today?
+- **What did I do?**
+- **What was completed, sent, submitted, or decided?**
+- **What remains open, if anything?**
 
-## 3. Communication & Relationships
+## 3. Communication & Follow-Up
 
-- Who did I contact or respond to?
-- What was agreed, requested, or clarified?
-- Is any follow-up required?
-- Did I protect or renegotiate a boundary?
+- **Who or what needs a follow-up?**
+- **What was agreed or clarified, if relevant?**
+- **Due date, if any:**
 
-## 4. Money & Resources
+## 4. Money & Administration, if Relevant
 
-- Financial or administrative progress:
-- Quote, rate, invoice, payment, or expense:
-- Resource or capacity constraint:
-- Decision required:
+- [ ] Quote / pricing
+- [ ] Invoice sent
+- [ ] Payment received
+- [ ] Expense recorded
+- [ ] Budget reviewed
+- [ ] Administrative task completed
 
-> Record only the level of financial detail that is useful and safe for your journal.
+- **Financial or administrative note, if needed:**
 
-## 5. Decisions & Direction
+## 5. Progress & Capacity
 
-- Situation:
-- Decision made:
-- Evidence or reason:
-- Trade-off:
-- Does this support the kind of practice or career I want to build?
-- What remains uncertain?
-
-## 6. Obstacles & Capacity
-
-- Current obstacle:
-- Is it practical, financial, relational, strategic, or capacity-related?
-- What is within my control?
-- What can wait, be declined, simplified, or delegated?
-- Energy / attention:
-
-## 7. Type of Progress
+**Type of progress — select all that apply**
 
 - [ ] Deliverable completed
 - [ ] Opportunity developed
@@ -72,15 +54,24 @@
 - [ ] Relationship maintained
 - [ ] Financial progress
 - [ ] Administrative burden reduced
-- [ ] Professional direction clarified
-- [ ] System or condition improved
+- [ ] Direction clarified
 - [ ] Boundary protected
 - [ ] No clear progress today
 
-## 8. Next Step
+- **Main obstacle, decision, or boundary, if relevant:**
+- **Does this support my longer-term direction? If relevant:**
+
+## 6. Next Step
 
 - **Next concrete action:**
-- **Follow-up and date:**
-- **Preparation needed:**
-- **Longer-term direction supported by this step:**
-- **What should not receive attention right now?**
+- **Person / project:**
+- **When, if time-specific:**
+- **What can wait or be ignored for now?**
+
+<!--
+For voice-based use:
+Organize the spoken account without preserving a raw transcript.
+Do not invent client details, financial details, deadlines, or decisions.
+Remove empty fields and sections and avoid repeating information.
+-->
+
