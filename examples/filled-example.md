@@ -2,49 +2,71 @@
 
 > This is a fictional example. It does not describe a real person or project.
 
-## Context
+## 1. Context
 
 - **Date:** 2026-08-20
 - **Project / practice:** Untitled light and sound study
 - **Medium / discipline:** Installation / sound
-- **Location:** Shared workspace
 - **Time spent:** 2 hours
 - **Main focus:** Testing how a short sound loop changes the perception of a projected image
 
-## What Happened Today
+**Practice mode**
+
+- [x] Experimenting / testing
+- [x] Documenting / sharing
+
+## 2. What I Did
 
 - Projected the same moving image onto two different surfaces.
 - Tested three sound loops at low volume.
 - Recorded a short video of each combination.
 
-The contact with the work was light but meaningful. Most of the session was exploratory rather than productive in a conventional sense.
+**Level of engagement**
 
-## Experiment & Observation
+- [x] Light but meaningful
 
-- **Initial expectation:** The brighter surface would make the image feel more immediate.
-- **Direct observation:** The brighter surface made the edges easier to see, but the darker surface held attention for longer.
-- **Unexpected result:** The quietest sound loop made the image feel larger, even though nothing visual changed.
-- **Interpretation:** More information did not create more intensity. Restraint may be part of the work's structure.
+## 3. State of the Work
 
-## Decisions & Changes in Judgment
+- **Starting point:** The image and sound had only been tested separately.
+- **Where it stands now:** One darker projection and one quiet sound loop have been selected for another test.
 
-- **Initial judgment:** Improve the image by increasing brightness and contrast.
-- **What changed my thinking:** The darker test created a stronger sense of duration.
-- **Decision made:** Keep the darker projection and test only the quiet sound loop next time.
-- **What remains unresolved:** Whether the loop should be audible immediately or emerge gradually.
+**Current stage**
 
-## Body, Attention & Working Conditions
+- [x] Exploring
 
-Energy was low at the beginning. Turning off the overhead lights and limiting the test to one variable made it easier to focus.
+## 4. Experiment or Observation
 
-## Type of Progress
+- **What did I test, change, or notice?** Compared two projection surfaces and three sound loops.
+- **What happened?** The brighter surface made the image clearer, but the darker surface held attention longer. The quietest loop made the image feel larger.
+
+**Result**
+
+- [x] Revealed an unexpected possibility
+
+## 5. Decisions & Learning
+
+- **What felt convincing, important, or unresolved?** The darker projection felt more convincing. The sound's entrance remains unresolved.
+- **Did my judgment change?** I stopped trying to improve the image by increasing brightness and contrast.
+- **Main difficulty or discovery:** More information did not create more intensity.
+- **What did I learn?** Restraint may be part of the work's structure.
+
+**Type of progress**
 
 - [x] Experiment completed
 - [x] Decision made
 - [x] Conditions prepared
-- [ ] New work produced
 
-## Next Step
+## 6. Body & Working Conditions
 
-- Test two fade-in durations without changing the image or volume.
-- Leave brightness and contrast untouched for now.
+**Energy**
+
+- [x] Low
+
+- **What supported or made the work harder?** Turning off the overhead lights and limiting the test to one variable made it easier to focus.
+
+## 7. Next Step
+
+- **Next concrete action:** Test two fade-in durations without changing the image or volume.
+- **One question or variable to carry forward:** Whether the loop should be audible immediately or emerge gradually.
+- **Something worth remembering:** The quietest sound created the strongest sense of scale.
+
